@@ -17,6 +17,6 @@ allprojects {
 [![](https://www.jitpack.io/v/goweii/ParallaxStackLayout.svg)](https://www.jitpack.io/#goweii/ParallaxStackLayout)
 ```groovy
 dependencies {
-    implementation 'com.github.goweii:ParallaxStackLayout:'
+    implementation 'com.github.goweii:ParallaxStackLayout:${version}'
 }
 ```
